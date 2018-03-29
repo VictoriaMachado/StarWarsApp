@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="character_id">Id do Personagem</string>
+    <string name="height">Altura</string>
+    <string name="name">Nome</string>
+    <string name="search">Pesquisar</string>
+    <string name="weight">Peso</string>
+</resources>

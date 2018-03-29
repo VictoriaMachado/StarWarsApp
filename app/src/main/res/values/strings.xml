@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="character_id">Character Id</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+
+</resources>
